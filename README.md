@@ -24,6 +24,8 @@ A data science product prototype designed to empower small e-commerce businesses
 -   **User-Friendly Interface:** Built with Streamlit for an intuitive and interactive web application experience.
 
 --- 
+
+## 📂 Project Structure
 prototype/
 ├── README.md                  # Project overview and instructions
 ├── app.py                     # Main Streamlit web application
@@ -36,8 +38,6 @@ prototype/
 ├── data/                      # Directory for raw and processed data (e.g., store.csv, train.csv)
 ├── models/                    # Directory for trained machine learning models (e.g., sales_forecast_model.pkl)
 └── PROJECT_DOCUMENTATION.md   # Comprehensive project documentation
-## 📂 Project Structure
-
 --- 
 
 ## ⚙️ Setup and Installation
