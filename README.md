@@ -79,3 +79,4 @@ To launch the Streamlit dashboard, navigate to the `prototype/` directory and ru
 ```bash
 streamlit run app.py
 
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/b4655a67-e818-4cc2-9dbc-393383bb6df6" />
